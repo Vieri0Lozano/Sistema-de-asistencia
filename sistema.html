@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Asistencia Escolar</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Temporary helper to ensure .oculto exists if external CSS not loaded yet */
+        .oculto { display: none; }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header class="encabezado">
+            <div>
+                <h1>📚 Sistema de Asistencia Escolar</h1>
+                <p>Gestión de Estudiantes y Asistencia - Sprint 2</p>
+            </div>
+
+            <div>
+
+                <button
+                class="btn-cerrar"
+                onclick="cerrarSesion()">
+
+                    Cerrar Sesión
+
+                </button>
+
+            </div>
+
+        </header>
+
+        <!-- REGISTRO DE ESTUDIANTES -->
+
+        <div class="formulario">
+
+            <h2>Registro de Estudiantes</h2>
+
+            <label>DNI</label>
+            <input
+                type="text"
+                id="dni"
+                maxlength="8"
+                placeholder="Ingrese DNI"
+                oninput="this.value=this.value.replace(/[^0-9]/g,'')">
+
+            <label>Nombres</label>
+            <input
+                type="text"
+                id="nombres"
+                placeholder="Ingrese nombres">
+
+            <label>Apellidos</label>
+            <input
+                type="text"
+                id="apellidos"
+                placeholder="Ingrese apellidos">
+
+            <label>Fotografía</label>
+            <input
+                type="file"
+                id="foto"
+                accept="image/*"
+                title="Subir fotografía del estudiante"
+                aria-label="Fotografía del estudiante">
+
+            <div class="botones">
+
+                <button
+                    class="btn-guardar"
+                    onclick="guardar()">
+                    Guardar
+                </button>
+
+                <button
+                    class="btn-limpiar"
+                    onclick="limpiar()">
+                    Limpiar
+                </button>
+
+            </div>
+
+            <br>
+
+            <div class="botones">
+
+                <button onclick="exportarJSON()">
+                    Exportar JSON
+                </button>
+
+                <button onclick="document.getElementById('archivoJSON').click()">
+                    Importar JSON
+                </button>
+
+                <input
+                    type="file"
+                    id="archivoJSON"
+                    accept=".json"
+                    class="oculto"
+                    onchange="importarJSON(event)"
+                    title="Seleccionar archivo JSON para importar"
+                    aria-label="Archivo JSON a importar">
+
+            </div>
+
+        </div>
+
+        <!-- REGISTRO DE ASISTENCIA -->
+
+        <div class="formulario">
+
+            <h2>📋 Registro de Asistencia</h2>
+
+            <label>DNI del Estudiante</label>
+
+            <input
+                type="text"
+                id="dniAsistencia"
+                placeholder="Ingrese DNI">
+
+            <label for="estadoAsistencia">Estado</label>
+
+            <select id="estadoAsistencia" title="Seleccionar estado de asistencia" aria-label="Estado de asistencia">
+
+                <option value="Asistió">
+                    Asistió
+                </option>
+
+                <option value="Tardanza">
+                    Tardanza
+                </option>
+
+                <option value="Falta">
+                    Falta
+                </option>
+
+            </select>
+
+            <br><br>
+
+            <button onclick="registrarAsistencia()">
+                Registrar Asistencia
+            </button>
+
+        </div>
+
+        <!-- BUSCADOR -->
+
+        <div class="formulario">
+
+            <h2>🔍 Buscar Estudiante</h2>
+
+            <input
+                type="text"
+                id="buscar"
+                placeholder="Buscar por DNI, nombre o apellido"
+                onkeyup="buscar()">
+
+        </div>
+
+        <!-- TABLA DE ESTUDIANTES -->
+
+        <div class="tabla-container">
+
+            <h2>Lista de Estudiantes</h2>
+
+            <table>
+
+                <thead>
+
+                    <tr>
+                        <th>Foto</th>
+                        <th>DNI</th>
+                        <th>Nombres</th>
+                        <th>Apellidos</th>
+                        <th>Estado</th>
+                        <th>Acciones</th>
+                    </tr>
+
+                </thead>
+
+                <tbody id="contenidoTabla">
+
+                    <tr>
+
+                        <td colspan="6">
+                            No existen estudiantes registrados.
+                        </td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <br>
+
+        <!-- HISTORIAL DE ASISTENCIA -->
+
+        <div class="tabla-container">
+
+            <h2>📅 Historial de Asistencia</h2>
+
+            <table>
+
+                <thead>
+
+                    <tr>
+                        <th>DNI</th>
+                        <th>Fecha</th>
+                        <th>Estado</th>
+                    </tr>
+
+                </thead>
+
+                <tbody id="tablaAsistencias">
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+    <script src="js/estudiantes.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/asistencias.js"></script>
+
+</body>
+
+</html>
