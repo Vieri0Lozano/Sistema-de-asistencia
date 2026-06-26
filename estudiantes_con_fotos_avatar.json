@@ -1,0 +1,145 @@
+{
+  "estudiantes": [
+    {
+      "dni": "70123456",
+      "nombres": "Estudiante1",
+      "apellidos": "Prueba1",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123457",
+      "nombres": "Estudiante2",
+      "apellidos": "Prueba2",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDI8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123458",
+      "nombres": "Estudiante3",
+      "apellidos": "Prueba3",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDM8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123459",
+      "nombres": "Estudiante4",
+      "apellidos": "Prueba4",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDQ8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123460",
+      "nombres": "Estudiante5",
+      "apellidos": "Prueba5",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDU8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123461",
+      "nombres": "Estudiante6",
+      "apellidos": "Prueba6",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDY8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123462",
+      "nombres": "Estudiante7",
+      "apellidos": "Prueba7",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDc8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123463",
+      "nombres": "Estudiante8",
+      "apellidos": "Prueba8",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDg8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123464",
+      "nombres": "Estudiante9",
+      "apellidos": "Prueba9",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDk8L3RleHQ+CiAgICA8L3N2Zz4KICAgIA=="
+    },
+    {
+      "dni": "70123465",
+      "nombres": "Estudiante10",
+      "apellidos": "Prueba10",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDEwPC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123466",
+      "nombres": "Estudiante11",
+      "apellidos": "Prueba11",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDExPC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123467",
+      "nombres": "Estudiante12",
+      "apellidos": "Prueba12",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDEyPC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123468",
+      "nombres": "Estudiante13",
+      "apellidos": "Prueba13",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDEzPC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123469",
+      "nombres": "Estudiante14",
+      "apellidos": "Prueba14",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE0PC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123470",
+      "nombres": "Estudiante15",
+      "apellidos": "Prueba15",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE1PC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123471",
+      "nombres": "Estudiante16",
+      "apellidos": "Prueba16",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE2PC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123472",
+      "nombres": "Estudiante17",
+      "apellidos": "Prueba17",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE3PC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123473",
+      "nombres": "Estudiante18",
+      "apellidos": "Prueba18",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE4PC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123474",
+      "nombres": "Estudiante19",
+      "apellidos": "Prueba19",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDE5PC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    },
+    {
+      "dni": "70123475",
+      "nombres": "Estudiante20",
+      "apellidos": "Prueba20",
+      "estado": "Activo",
+      "foto": "data:image/svg+xml;base64,CiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiPgogICAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZWFlYWVhIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iNDIiIHI9IjIyIiBmaWxsPSIjYmRiZGJkIi8+CiAgICAgIDxyZWN0IHg9IjMwIiB5PSI3MCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjM1IiByeD0iMTUiIGZpbGw9IiNiZGJkYmQiLz4KICAgICAgPHRleHQgeD0iNjAiIHk9IjExNSIgZm9udC1zaXplPSIxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWx1bW5vIDIwPC90ZXh0PgogICAgPC9zdmc+CiAgICA="
+    }
+  ],
+  "asistencias": []
+}
